@@ -1,0 +1,55 @@
+filename:./train_data/data/1.jpg
+pred  :0.素疡
+target:车这次决定大规模裁员
+filename:./train_data/data/2.jpg
+pred  :0.素ml
+target:天就算是教训教训你们
+filename:./train_data/data/3.jpg
+pred  :0.2疡
+target:普通处方笺
+filename:./train_data/data/4.jpg
+pred  :姓名内
+target:姓名
+filename:./train_data/data/5.jpg
+pred  :性别
+target:性别男
+filename:./train_data/data/6.jpg
+pred  :姓别内
+target:科别内
+filename:./train_data/data/7.jpg
+pred  :姓名疡
+target:诊断消化性溃疡
+filename:./train_data/data/8.jpg
+pred  :0.素ml
+target:R5%葡萄糖注射液250ml
+filename:./train_data/data/9.jpg
+pred  :姓名ml
+target:奥美拉唑针40mg
+filename:./train_data/data/10.jpg
+pred  :姓名ml
+target:维生素B6针200mg
+filename:./train_data/data/11.jpg
+pred  :0别ml
+target:0.9%氯化钠注射液250ml
+filename:./train_data/data/12.jpg
+pred  :0.素ml
+target:皮试（一）青霉素钠800万
+filename:./train_data/data/13.jpg
+pred  :姓.名ml
+target:0.2%左氧氟星注射液300ml
+filename:./train_data/data/14.jpg
+pred  :姓科别内
+target:姓名赵润淇
+filename:./train_data/data/15.jpg
+pred  :0.素疡
+target:性别男女男年龄22岁
+filename:./train_data/data/16.jpg
+pred  :0.素ml
+target:住址/电话15239215288
+filename:./train_data/data/17.jpg
+pred  :姓别
+target:过敏史无
+filename:./train_data/data/18.jpg
+pred  :姓名疡
+target:临床诊断消化性溃疡
+ocr_correct: 0/18/0.0
